@@ -2,7 +2,7 @@
 ## 1. php scripts
 dbconnection.php - For connecting to the mysql database
 
-retrieve.php - retrieve the data to the mysql database
+retrieve.php - retrieve the data from the mysql database
 ## 2. SQL queries
 To run sql queries in phpMyAdmin checkout [this link](https://www.hostgator.com/help/article/how-to-run-sql-queries-in-phpmyadmin)
 
